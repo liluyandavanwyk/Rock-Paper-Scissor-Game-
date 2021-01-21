@@ -7,6 +7,7 @@ Insructions:
 Download the zip and exract to any destination of your choice.
 
 *To run the game simple open an html file after extraction with any browser of your choice (opera, chrome, firefox and microsoft edge etc.
+
 *No internet required its completely offline.
 
 *Enjoy play the game that's a wrap (final)
